@@ -1,0 +1,8 @@
+<?php
+
+
+DEFINE("WEB_DIR",$S_DOCUMENT_ROOT);
+DEFINE("WEB_COMM_DIR",$S_DOCUMENT_ROOT."/www");
+
+
+?> 
